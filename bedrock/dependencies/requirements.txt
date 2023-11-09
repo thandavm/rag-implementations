@@ -6,3 +6,4 @@ PyYAML
 pypdf
 streamlit
 PyPDF2
+psycopg2
